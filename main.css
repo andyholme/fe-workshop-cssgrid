@@ -1,0 +1,23 @@
+.container {
+    margin: 60px;
+}
+
+.one {
+    background: cyan;
+    margin: 2px;
+}
+
+.two {
+    background: red;
+    margin: 2px;
+}
+
+.three {
+    background: lime;
+    margin: 2px;
+}
+
+.four {
+    background: lightcoral;
+    margin: 2px;
+}

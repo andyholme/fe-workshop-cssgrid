@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    color: white;
+}
+
+body {
+    height: 100%;
+    grid-template-rows: [row-1-start] 4.5rem [row-1-end row-2-start] auto [row-2-end row-3-start] 4.5rem [row-3-end];
+}
+
+header {
+    background-color: orange;
+}
+
+main {
+    background-color: red;
+}
+
+aside {
+    background-color: blue;
+}
+
+footer {
+    background-color: green;
+}
+
